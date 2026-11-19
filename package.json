@@ -1,0 +1,12 @@
+{
+  "name": "replica-read-routing-planner",
+  "version": "1.0.0",
+  "description": "根据复制延迟、一致性要求和负载规划数据库读路由",
+  "type": "module",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
